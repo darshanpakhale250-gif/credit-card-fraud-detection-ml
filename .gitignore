@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+*.env
+.env
+venv/
+.env/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab temp files
+*.crdownload
+
+# IDE
+.vscode/
+.idea/
